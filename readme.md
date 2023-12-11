@@ -1,6 +1,6 @@
 # <span style= "color:steelblue">Map of </span> <span style= "color:orange">Male </span><span style= "color:steelblue"> and </span><span style= "color:purple"> Female </span> <span style="color:steelblue"> DOTS by U.S. State</span>💪
 
-You can explore this map [here](index.html).
+You can explore this map [here]((https://ulrichse.github.io/DOTS-by-State/).
 
 #### <span style= "color:indigo">Lab 04 Deliverable for GHY 5818</span>
 Sarah Ulrich
